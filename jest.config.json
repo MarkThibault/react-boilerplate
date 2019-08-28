@@ -1,0 +1,5 @@
+{
+  "clearMocks": true,
+  "moduleFileExtensions": ["js", "json", "jsx"],
+  "setupFilesAfterEnv": ["<rootDir>enzyme.config.js"]
+}
